@@ -1,7 +1,7 @@
 
 ***
 
-# ProTraApp for Android 54 bit
+# ProTraApp for Android 64 bit
 
 This is a set of libraries for ProTraApp compatible with all 64 bit versions of Android (since the script is very easy to maintain, why not) 
 
