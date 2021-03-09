@@ -1,0 +1,7 @@
+ProTraApp todo today:
+
+Windows 10; Python, C. Announce support for F#, VB.NET, C++, and PowerShell
+Darwin: Objective-C, AppleScript, Swift
+Linux: Fedora: Python, C, C++
+README.md (easy)
+ProjectWiki (also easy)
