@@ -1,0 +1,2 @@
+Create a README.md file for Fedora x64
+Update the x32 Fedora file
