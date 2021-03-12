@@ -1,0 +1,9 @@
+iPhone OS 1-3
+Applescript, Objective-C, v2 and up apps only
+iOS 4-7
+AppleScript, Objective-C
+iOS 8-14
+Swift, Objective-C
+iPadOS13-14
+Swift, Objective-C
+
