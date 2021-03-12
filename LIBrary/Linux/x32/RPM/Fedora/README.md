@@ -9,7 +9,13 @@ Currently, I have 32 bit support for Fedora Core 1 to Fedora 12. I am stopping h
 
 Script support is currently available in the following programming languages:
 
-1. C
+1. C (all versions)
+
+2. C++ (all versions)
+
+3. Python 2 (Fedora Core 1 - Fedora 7)
+
+4. Python 3 (Fedora 8-12)
 
 And human-spoken languages
 
@@ -23,9 +29,9 @@ And human-spoken languages
 
 File type: `Markdown (*.md)`
 
-File version: `1 (Wednesday, March 10th 2021 at 6:50 pm)`
+File version: `2 (Thursday, March 11th 2021 at 9:34 pm)`
 
-Line count (including blank lines and compiler line): `67`
+Line count (including blank lines and compiler line): `85`
 
 ***
 
@@ -47,13 +53,25 @@ Version 1 (Wednesday, March 10th 2021 at 6:50 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Thursday, March 11th 2021 at 9:34 pm)
+
+> Changes:
+
+> * Updated the language support list
+
+> * Update the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
 
 ***
 
