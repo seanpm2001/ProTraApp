@@ -2,10 +2,10 @@
 //// ProTraApp_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all ProTraApp project repositories by @seanpm2001
-//// As of 2025, Thursday, January 30th
+//// As of 2025, Friday, January 31st
 
 //// ----------------------------------------------------- \\\\
-//// ProTraApp Project (16)
+//// ProTraApp Project (22)
 //// ----------------------------------------------------- \\\\
 
 //// ProTraApp Core (1)
@@ -51,9 +51,24 @@ https://github.com/seanpm2001/ProTraApp_WebGL_Docs
 https://github.com/seanpm2001/ProTraApp_Java
 https://github.com/seanpm2001/ProTraApp_Java_Docs
 
+//// ProTraApp Python support (2)
+
+https://github.com/seanpm2001/ProTraApp_Python
+https://github.com/seanpm2001/ProTraApp_Python_Docs
+
+//// ProTraApp Tcl support (2)
+
+https://github.com/seanpm2001/ProTraApp_Tcl
+https://github.com/seanpm2001/ProTraApp_Tcl_Docs
+
+//// ProTraApp Lua support (2)
+
+https://github.com/seanpm2001/ProTraApp_Lua
+https://github.com/seanpm2001/ProTraApp_Lua_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (DMAIL): 16
-//// 1+1+2+2+2+2+2+2+2=16
+//// Repo count (DMAIL): 22
+//// 1+1+2+2+2+2+2+2+2+2+2+2=22
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -68,15 +83,15 @@ https://github.com/seanpm2001/Zombie-Life-Re-animated
 //// Repo count (See also): 1
 //// 1+0=1
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 17
-//// 16+1=17
+//// Total repo count: 23
+//// 22+1=23
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2025, Thursday, January 30th at 06:03 pm PST)
-//// Line count (including blank lines and compiler line): 83
+//// File version: 3 (2025, Friday, January 31st at 05:39 pm PST)
+//// Line count (including blank lines and compiler line): 98
 //// ----------------------------------------------------- \\\\
 
 //// End of file
